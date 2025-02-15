@@ -7,5 +7,12 @@
 알고리즘 개념은 프로그래머스 고득점 Kit
 문제는 백준 문제집 기준입니다.
 
+### 목표
+백준 플래티넘 돌파
+
+250215 기준 실버5
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpass189)](https://solved.ac/kimpass189/)
+
 ### 진행
 1주차 : 그리디
