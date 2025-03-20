@@ -1,0 +1,4 @@
+-- 공장 중 강원도에 있는 공장의 아이디 이름 주소 도출
+SELECT FACTORY_ID,FACTORY_NAME,ADDRESS
+FROM FOOD_FACTORY
+WHERE ADDRESS LIKE "강원도%"
