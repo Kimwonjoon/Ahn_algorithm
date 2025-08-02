@@ -1,3 +1,8 @@
 .idea/
 school/
 mang/
+.venv/
+__pycache__/
+*.pyc
+.python-version
+uv.lock
