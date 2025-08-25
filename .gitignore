@@ -1,6 +1,6 @@
 .idea/
-school/
-mang/
+old/school/
+old/mang/
 .venv/
 __pycache__/
 *.pyc
